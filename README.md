@@ -47,4 +47,4 @@ const CONFIG: Config = Config {
 Im not responsable of the bad use that can you have using that bot.
 
 ## Support
-If you need Support with bot, dm me on telegram, https://t.me/mcraxker
+If you need Support with bot, dm me on telegram, https://t.me/mcraxker0
